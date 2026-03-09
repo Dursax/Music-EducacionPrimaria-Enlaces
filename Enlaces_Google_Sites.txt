@@ -11,6 +11,3 @@ Enlace: https://dursax.github.io/Music-EducacionPrimaria-Enlaces/Music-SegundoCi
 Actividad: Music-TercerCiclo-CualidadesSonido 
 Enlace: https://dursax.github.io/Music-EducacionPrimaria-Enlaces/Music-TercerCiclo-CualidadesSonido/ 
 -------------------------------------------------- 
-Actividad: Prueba 
-Enlace: https://dursax.github.io/Music-EducacionPrimaria-Enlaces/Prueba/ 
--------------------------------------------------- 
